@@ -2,8 +2,7 @@
 
 <img src="https://user-images.githubusercontent.com/85348363/174324572-d1b8bf61-2e12-46a6-990b-70a7f552f153.jpg" width=250/>
 
-## 안녕하세요.
-오늘도 발전하는중인 문태호입니다.
+### **안녕하세요. 오늘도 발전하는중인 문태호입니다.**
 
 좋은 프론트엔드 개발자가 되기 위해 풀스택 기본지식을 바탕으로 React 기술을 익혔습니다.
 
@@ -11,7 +10,7 @@
 
 프로그래밍 중 문제상황을 해결할수록 코딩이 재밌음을 느꼈습니다. 실무에서도 많은 분들과 함께 발전하는 개발자가 되겠습니다.
 
-# ⚒️ Stacks
+## ⚒️ Stacks
 
 **[ Strong ]** React, Redux, React- HTML, CSS, Javascript, MySQL, 
 
@@ -19,7 +18,7 @@
 
 **[ Etc ]** GitHub, Notion
 
-# 👩🏻‍💻 Projects
+## 👩🏻‍💻 Projects
 
 2022.05
 
@@ -40,7 +39,7 @@
 
 [발표 자료] : [이동](https://www.notion.so/CAMPEN-1689e4c8ea2f479bbf5c916a417ad12f)
 
-# 💫 About me
+## 💫 About me
 
 ### 성실
 
@@ -54,14 +53,14 @@
 
 - React를 주로 사용하며 웹 페이지를 구성하며 백엔드와 데이터베이스를 이해하고 있습니다.
 
-# 🙋🏻 How i work
+## 🙋🏻 How i work
 
 - 목표를 이루며 성취감을 얻습니다. 언제나 목표를 두는 편입니다.
 - 제 일은 스스로 찾아서 하며 발전 방향을 모색합니다.
 - 함께 정한 기한은 반드시 지키려고 노력해요.
 - 커뮤니케이션을 중요하게 생각합니다. 의견을 공유하고 경청합니다.
 
-# 🔎 Career
+## 🔎 Career
 
 ### 가천대길병원 2019.05 - 2021.05
 
@@ -81,7 +80,7 @@
 
 - [Full stack(풀스택)개발자 with react&node.js 수료](https://www.notion.so/9b6fc8a4ee1a40dfa83e54701772bfb6-b450ee470d404f25b80aef698108bf63)
 
-# 👋 Contact
+## 👋 Contact
 
 ✉️ [mun05170@gmail.com](mailto:mun05170@gamil.com) 
 
