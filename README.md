@@ -12,9 +12,9 @@
 
 ## ⚒️ Stacks
 
-**[ Strong ]** React, Redux, React- HTML, CSS, Javascript, MySQL, 
+**[ Strong ]** React, Redux, React Query, HTML, CSS, Javascript, MySQL
 
-**[ Knowledgeable ]** Express, Node.js, AWS(S3), React, Redux, HTML, CSS, Multer, Linux
+**[ Knowledgeable ]** Express, Node.js, AWS(S3), Multer, Linux
 
 **[ Etc ]** GitHub, Notion
 
@@ -25,7 +25,7 @@
 ### 캠핀**(CAMPEN) : 캠핑장 검색, 커뮤니티 서비스**
 *이젠아카데미* *파이널 프로젝트(2인)*
 
-[팀장, 풀스택] : Node.js, Express, MYsql, Multer, AWS(S3), PM2
+[팀장, 풀스택] : React, Redux, React Query, MySQL, Node.js, Multer, AWS(S3)
 
  - WBS, 요구사항 명세서, User Case, ERD, 테이블명세서  작성
 
