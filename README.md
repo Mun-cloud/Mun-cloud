@@ -78,7 +78,7 @@
 
 ### 이젠 아카데미 국가기간전략산업직종 훈련 2021.9 - 2022.3
 
-- [Full stack(풀스택)개발자 with react&node.js 수료](https://mun-cloud.notion.site/a9ea6f4b03064a52a4052b13ba49b300)
+- [Full stack(풀스택)개발자 with react&node.js 수료](https://mun-cloud.notion.site//9b6fc8a4ee1a40dfa83e54701772bfb6)
 
 ## 👋 Contact
 
