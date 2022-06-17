@@ -90,8 +90,6 @@
 
 🏠 인천 부평구
 
-[👆 맨 위로 올라가기](https://www.notion.so/a9ea6f4b03064a52a4052b13ba49b300) 
-
 ---
 
 Copyright. Sohee Kim(Wantedlab) all rights reserved
