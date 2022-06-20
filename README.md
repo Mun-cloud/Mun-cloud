@@ -2,7 +2,7 @@
 
 <img src="https://user-images.githubusercontent.com/85348363/174324572-d1b8bf61-2e12-46a6-990b-70a7f552f153.jpg" width=250/>
 
-### **안녕하세요. 오늘도 발전하는중인 문태호입니다.**
+### **안녕하세요. 오늘도 발전하는 문태호입니다.**
 
 좋은 프론트엔드 개발자가 되기 위해 풀스택 기본지식을 바탕으로 React 기술을 익혔습니다.
 
@@ -14,7 +14,7 @@
 
 **[ Strong ]** React, Redux, React Query, HTML, CSS, Javascript, MySQL
 
-**[ Knowledgeable ]** Express, Node.js, AWS(S3), Multer, Linux
+**[ Knowledgeable ]** Express, Node.js, AWS(S3), Linux
 
 **[ Etc ]** GitHub, Notion
 
@@ -53,7 +53,7 @@
 
 - React를 주로 사용하며 웹 페이지를 구성하며 백엔드와 데이터베이스를 이해하고 있습니다.
 
-## 🙋🏻 How i work
+## 🙋🏻 How I work
 
 - 목표를 이루며 성취감을 얻습니다. 언제나 목표를 두는 편입니다.
 - 제 일은 스스로 찾아서 하며 발전 방향을 모색합니다.
