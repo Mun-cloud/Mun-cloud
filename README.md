@@ -88,8 +88,6 @@
 
 🔗 [https://github.com/Mun-cloud](https://github.com/Mun-cloud)
 
-🏠 인천 부평구
-
 ---
 
 Copyright. Sohee Kim(Wantedlab) all rights reserved
