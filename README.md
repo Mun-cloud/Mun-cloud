@@ -22,7 +22,7 @@
 
 2022.05
 
-### 캠핀**(CAMPEN) : 캠핑장 검색, 커뮤니티 서비스**
+### 캠핀(CAMPEN) : 캠핑장 검색, 커뮤니티 서비스
 *이젠아카데미* *파이널 프로젝트(2인)*
 
 [팀장, 풀스택] : React, Redux, React Query, MySQL, Node.js, Multer, AWS(S3)
